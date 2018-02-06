@@ -1,0 +1,32 @@
+
+body {
+    background-color: rgb(247, 247, 247);
+}
+h1 {
+    margin-bottom: 0px;
+}
+h3 {
+    margin-top: 0px;
+}
+h2 {
+    margin-bottom: -15px;
+}
+.title {
+    color: rgb(247, 3, 48);
+}
+.para {
+    color: rgb(105, 105, 105);
+}
+.list {
+    color: rgb(105, 105, 105);
+}
+.numl {
+    margin-bottom: 10px;
+}
+.begin {
+    color: rgb(227, 108, 10) ; font-size: 20px;
+}
+.links {
+    color: rgb(0, 96, 255);
+    text-decoration: none;
+}
